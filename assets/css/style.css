@@ -1,0 +1,33 @@
+.maxPicture {
+	height: 150px;
+}
+
+
+.maxPicture {
+	height: 50px;
+	width: 50px;
+	padding: 50px;
+}
+
+/*.container-fluid text-center {
+	background-color: rgba(0, 0, 0, 0.5);
+    color: grey;
+    font-size: 15px;
+    padding: 20px 0;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+*/
+
+
+footer {
+      background-color: grey;
+      height: 50px;
+
+    }
+
+.media {
+  width: 62px;
+  height: 62px;
+  margin: auto;
+}
